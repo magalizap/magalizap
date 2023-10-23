@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/magalí sol zapata](https://www.linkedin.com/in/magal%C3%AD-sol-zapata-444b88234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magalí sol zapata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/magal%C3%AD-sol-zapata-444b88234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magalí sol zapata" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
