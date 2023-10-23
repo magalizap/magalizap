@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magali Zapata</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="center" gap="2"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magalizap" alt="magalizap" /></a> </p>
+<p align="center" margin="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magalizap" alt="magalizap" /></a> </p>
 
 - 📫 How to reach me **magalisol2307@gmail.com**
 
