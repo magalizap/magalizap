@@ -3,7 +3,7 @@
 
 <p align="center" margin="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magalizap" alt="magalizap" /></a> </p>
 
-- 📫 How to reach me **magalisol2307@gmail.com**
+- 📫 How to reach me **maguizap2307@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFD4ak8VYo/5ViS0ZiqUdySiRVh4Qu6eQ/view?utm_content=DAFD4ak8VYo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFD4ak8VYo/5ViS0ZiqUdySiRVh4Qu6eQ/view?utm_content=DAFD4ak8VYo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
